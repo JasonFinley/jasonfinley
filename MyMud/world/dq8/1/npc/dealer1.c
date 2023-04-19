@@ -1,0 +1,1 @@
+inherit STD_EQUIPMENT_DEALER;
